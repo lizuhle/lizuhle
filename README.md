@@ -4,7 +4,7 @@ I'm currently pursuing a Master's degree in **Human Language Technology** at the
 
 - 🌱 I’m currently exploring advanced topics in Human Language Technology.
 - 💡 I’m passionate about building applications that make language learning more accessible and effective.
-- 🔭 My recent projects include a **Spanish Conjugator API** and a **Movie Review Classifier**.
+- 🔭 My recent projects include a **Spanish Conjugation API** and a **Movie Review Classifier**.
 - ⚙️ I’m proficient in: **Python**, and familiar with: **SQL**, **Perl**, and **Scikit-learn**.
 - 📚 I’m always eager to learn new technologies and improve my existing skills.
 
