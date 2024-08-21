@@ -10,9 +10,9 @@ I'm currently pursuing a Master's degree in **Human Language Technology** at the
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, Perl
+- **Programming Languages**: Python, Perl, SQL
 - **Natural Languages**: English, Spanish, Portuguese
-- **Databases**: SQL
+- **Databases**: MySQL
 - **Libraries/Frameworks**: Scikit-learn, NumPy
 - **Tools**: PyCharm, Git
 
