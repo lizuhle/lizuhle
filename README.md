@@ -18,7 +18,7 @@ I'm currently pursuing a Master's degree in **Human Language Technology** at the
 
 ## 🔨 Projects
 
-### [Spanish Conjugator API](https://github.com/lizuhle/SpanishConjugationAPI)
+### [Spanish Conjugation API](https://github.com/lizuhle/SpanishConjugationAPI)
 A web-based API that provides conjugations for Spanish verbs, aimed at helping learners to access accurate verb forms more easily.
 
 ### [Movie Review Classifier](https://github.com/lizuhle/MovieReviewClassifier)
